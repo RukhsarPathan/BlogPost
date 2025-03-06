@@ -17,7 +17,8 @@ This project is a simple blog post web page designed to showcase the importance 
 
 ## Live Demo
 
-You can view the live project 
+🔗 **Live Demo:** [Click Here](https://rukhsarpathan.github.io/BlogPost/)
+
 
 ## Installation
 
