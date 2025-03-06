@@ -1,0 +1,151 @@
+.main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+body {
+    font-family: 'mukta malar', sans-serif;
+    font-size: 16px;
+    margin:0px;
+    padding: 0px;
+    letter-spacing: 0.5px;
+
+}
+h1, h2, h3, h4,h5,h6 {
+    font-family: 'bitter', serif;
+    font-weight: 500;
+
+}
+.centered {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'bitter',serif;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+
+}
+
+.centered span{
+    color:#D50000;
+}
+.capital{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0px;
+    margin: 40px 0 30px 0;
+    fomt-size:18px;
+}
+.capital span{
+    color:#D50000;
+    
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 14px;
+    border-left: solid 2px #D50000;
+    padding-left:16px;
+    margin:40px 0 30px 0;
+
+}
+cite{
+    display:block;
+    font-weight:bold;
+    margin-left:20px;
+}
+h1{
+    font-size:80px;
+    letter-spacing: -1.5px;
+    font-weight: 400;
+    margin-top: 0;
+}
+h2{
+    font-size:50px;
+    font-weight:500;
+    letter-spacing: -0.5px;
+}
+h3{
+    font-size:40px;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+
+}
+h4{
+    font-size:30px;
+    letter-spacing: 0px;
+}
+
+h5{
+    font-size:25px;
+    letter-spacing: 0px;
+
+}
+h6{
+    font-size:20px;
+    letter-spacing: 0px;
+
+}
+
+footer {
+
+    background-color: #1E3A8A;
+    
+}
+footer li {
+    list-style: none;
+}
+
+footer ul li{
+    display:inline;
+}
+footer li a {
+    text-decoration: none;
+    color: white;
+    padding: 0 18px;
+
+}
+
+footer ul {
+    list-style: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+    padding: 18px 0;
+
+}
+code {
+    color:#D50000;
+    font-weight: bold;
+}
+footer li a:hover {
+    text-decoration:solid underline;
+    color: white;
+    padding: 0 18px;
+
+}
+.hero {
+background-color: #1E3A8A;
+color: white;
+height: 100vh;
+text-align: center;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.hero h1,
+.hero p {
+    width: 75%;
+    max-width:900px;
+    margin: 16px 0;
+}
+.hero hr {
+    width: 75%;
+    margin: 32px 0;
+}
+
